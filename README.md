@@ -26,12 +26,17 @@ Features:
 
 Technologies Used:
 
-React.js
-Framer Motion
-HTML/CSS
-JavaScript
-Node.js
-Additional libraries for specific functionalities
+- React.js
+
+- Framer Motion
+
+- HTML/CSS
+
+- JavaScript
+
+- Node.js
+
+- Additional libraries for specific functionalities
 
 Getting Started:
 

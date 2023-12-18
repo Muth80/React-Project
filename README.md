@@ -29,14 +29,19 @@ Additional libraries for specific functionalities
 Getting Started:
 
 To run this project locally, follow these steps:
-1. Clone the repository: git clone https://github.com/your-username/my-portfolio-playground.git
+1. Clone the repository:
 
-2. Install dependencies: cd my-portfolio-playground
-npm install
+   https://github.com/Muth80/React-Project.git
 
-3. Run the development server: npm start
+3. Install dependencies:
 
-4. Open your browser and navigate to http://localhost:3000 to view the project.
+   - cd my-portfolio-playground
+   
+   - npm install
+
+5. Run the development server: npm start
+
+6. Open your browser and navigate to http://localhost:3000 to view the project.
 
 Project Structure
 The project structure is organized as follows:

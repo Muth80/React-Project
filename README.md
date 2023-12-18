@@ -1,4 +1,3 @@
-
 My Portfolio Playground: Exploring React and Framer Motion
 
 Project Overview:

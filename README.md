@@ -12,9 +12,17 @@ Learning Objectives: Dive deep into concepts like parallax animations, scroll-ba
 
 Features:
 
-Interactive Design Elements: Implement scroll snapping, smooth scrolling, and animated menus.
-Engaging Animations: Showcase parallax effects, sliding text, and progress bars using Framer Motion.
-Responsive Design: Ensure seamless user experience across various devices.
+1. Interactive Design Elements: 
+
+- Implemented scroll snapping, smooth scrolling, and animated menus.
+
+2. Engaging Animations: 
+
+- Showcases parallax effects, sliding text, and progress bars using Framer Motion.
+
+3. Responsive Design: 
+
+- Ensured seamless user experience across various devices.
 
 Technologies Used:
 
@@ -22,7 +30,7 @@ React.js
 Framer Motion
 HTML/CSS
 JavaScript
-Node.js (for deployment, if applicable)
+Node.js
 Additional libraries for specific functionalities
 
 Getting Started:

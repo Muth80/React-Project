@@ -1,6 +1,7 @@
 import "./contact.scss";
 import {motion} from "framer-motion";
 
+
 const variants ={
     initial:{
         y:500,
@@ -17,6 +18,8 @@ const variants ={
 }
 
 const Contact = () => {
+    
+
   return (
     <motion.div className="contact" variants={variants} initial="initial" whileInView="animate">
         <motion.div className="textContainer" variants={variants}>
@@ -48,10 +51,12 @@ const Contact = () => {
                 </svg>
             </motion.div>
             <form>
-                <input type="text" required placeholder="Name" />
-                <input type="email" required placeholder="Email" />
-                <textarea rows={8} required placeholder="Message" /> 
-                <button>Submit</button>
+
+                <input type="text" required placeholder="Name" name="name" />
+                <input type="email" required placeholder="Email" name="email"/>
+                <textarea rows={8} required placeholder="Message" name="message"/> 
+                <button>Submit</button>;
+
             </form>
         </div>
     </motion.div>

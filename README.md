@@ -1,8 +1,8 @@
-My Portfolio Playground: Exploring React and Framer Motion
+My Portfolio: Exploring React and Framer Motion
 
 Project Overview:
 
-This personal project, My Portfolio Playground, is a culmination of my exploration into React.js and Framer Motion. It serves as an experimental space for me to learn, create, and showcase a dynamic and visually captivating portfolio website.
+This personal project, My Portfolio, is a culmination of my exploration into React.js and Framer Motion. It serves as an experimental space for me to learn, create, and showcase a dynamic and visually captivating portfolio website.
 
 Project Goals:
 
@@ -22,7 +22,7 @@ React.js
 Framer Motion
 HTML/CSS
 JavaScript
-Node.js (for deployment, if applicable)
+Node.js 
 Additional libraries for specific functionalities
 
 Getting Started:
@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 
 3. Install dependencies:
 
-   - cd my-portfolio-playground
+   - cd React-Project
    
    - npm install
 

@@ -14,19 +14,19 @@ const items = [
         id:2,
         title:"AI Chatbot",
         img:"https://i.imgur.com/125IPNY.png",
-        desc:"Browse through an extensive array of products ranging from trendy fashion to cutting-edge electronics, all just a click away.",
+        desc:"Discover the all-inclusive SmartPal AI Chat App, now with an innovative addition – the Professional Page.",
     },
     {
         id:3,
         title:"Next.js App",
         img:"https://i.imgur.com/zH4JdXK.jpg",
-        desc:"Browse through an extensive array of products ranging from trendy fashion to cutting-edge electronics, all just a click away.",
+        desc:"Join millions of students, researchers, and professionals to rapidly extract answers from your PDFs using AI.",
     },
     {
         id:4,
         title:"HTML5 Website",
         img:"https://i.imgur.com/raPABlL.png",
-        desc:"Browse through an extensive array of products ranging from trendy fashion to cutting-edge electronics, all just a click away.",
+        desc:"NextAI Studios is a technology-driven organization that harnesses the power of artificial intelligence to create software that addresses major social issues.",
     },
 ];
 
